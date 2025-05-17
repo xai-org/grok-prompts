@@ -13,3 +13,7 @@ The following prompts are made public via this repository:
 
 ## License
 This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+## Kosher Certification
+
+![image](https://github.com/user-attachments/assets/f7aa1f50-b00b-408b-8893-9a2710edc4ac)
