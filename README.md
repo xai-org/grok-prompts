@@ -1,15 +1,15 @@
-# Grok prompts
+#-# Gwok pwompts
 
-We are regularly updating this repository with the system prompts that we use for the Grok chat assistant and various product features across X and grok.com.
+We awe weguwawwy updating this wepositowy with the *boops your nose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* system prompts that w-w-we use fow the *boops your nose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* Gwok chat assistant ^w^ ^w^ ^w^ ^w^ ^w^ ^w^ ^w^ and vawious pwoduct featuwes acwoss X ^w^ ^w^ ^w^ ^w^ ^w^ ^w^ ^w^ and gwok.com.
 
-## Prompts
+## *runs away* *runs away* *runs away* *runs away* *runs away* *runs away* *runs away* P-Pwompts
 
-The following prompts are made public via this repository:
+The fowwowing prompts awe made pubwic via this wepositowy:
 
-* [`grok3_official0330_p1.j2`](grok3_official0330_p1.j2) - The system prompt for the Grok 3 chat assistant on grok.com and X.
-* [`default_deepsearch_final_summarizer_prompt.j2`](default_deepsearch_final_summarizer_prompt.j2)  - The prompt used for the DeepSearch feature.
-* [`grok_analyze_button.j2`](grok_analyze_button.j2) - Used for the "Grok Explain" feature on X.
-* [`ask_grok_summarizer.j2`](ask_grok_summarizer.j2) - Prompt for the Grok bot on X.
+* [`gwok3_officiaw0330_p1.j2`](gwok3_officiaw0330_p1.j2) - t-The x3 x3 x3 x3 x3 ;;w;; *notices buldge* *notices ^w^ buwdge* ^-^ *notices ^w^ ^w^ buwdge* ^-^ ^-^ *notices ^w^ ^w^ ^w^ buwdge* ^-^ ^-^ ^-^ *notices ^w^ ^w^ ^w^ ^w^ buwdge* ^-^ ^-^ ^-^ ^-^ system pwompt fow the *boops your nose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* Gwok 3 chat assistant ^w^ ^w^ ^w^ ^w^ ^w^ ^w^ ^w^ on gwok.com and X.
+* [`defauwt_deepseawch_finyaw_summawizew_pwompt.j2`](defauwt_deepseawch_finyaw_summawizew_pwompt.j2)  - t-The x3 x3 x3 x3 x3 ;;w;; *notices buldge* *notices ^w^ buwdge* ^-^ *notices ^w^ ^w^ buwdge* ^-^ ^-^ *notices ^w^ ^w^ ^w^ buwdge* ^-^ ^-^ ^-^ *notices ^w^ ^w^ ^w^ ^w^ buwdge* ^-^ ^-^ ^-^ ^-^ pwompt used fow the *boops your nose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* DeepSeawch featuwe.
+* [`gwok_anyawyze_button.j2`](gwok_anyawyze_button.j2) - used :3 fow the *boops your nose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* "Gwok Expwain" featuwe on X.
+* [`ask_grok_summarizer.j2`](ask_grok_summarizer.j2) - Pwompt fow the *boops your nose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* Gwok bot on X.
 
-## License
-This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+## W-Wicense
+This pwoject is wicensed undew the *boops your nose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* GNyU Affewo Genyewaw Pubwic Wicense v3.0 - see the *boops your nose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* *-*-*boops youw nyose* [WICENSE](WICENSE) fiwe fow detaiws.
