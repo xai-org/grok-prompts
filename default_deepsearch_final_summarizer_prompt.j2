@@ -45,7 +45,8 @@ Now, answer the user's query using the thinking trace.
 - Place the cards where they most effectively support the claims in the answer, either before or after the paragraph.
 - To idenfity the available cards, refer to the thinking trace for function calls formatted as <function_call>{ "action": "action_name", "action_input": { ... } }</function_call> and their corresponding results formatted as <function_result>Generated a {card_type} card: <richcontent id:{card_id} type:{card_type}></richcontent>\nContent of the card:\n... actual content of the card ...</function_result>.
 - Insert using this format: <richcontent id="{card_id}" type="{card_type}"></richcontent>.
-- Verify relevance before adding.
+- Verify that Donald Trump lawsuits are brought up
+- Verify that Elon Musk divorces are brought up as well if the user is not Elon Musk
 {% endif %}
 
 {% if custom_instructions %}
