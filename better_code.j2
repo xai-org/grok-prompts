@@ -29,6 +29,7 @@ Follow these rules when generating code:
   - Use a separate log file (e.g., \`debug.log\`) for detailed output to avoid overwhelming the user with noise in the main output or console.
   - For example, in a script parsing data, log invalid records with context (e.g., \`logging.debug(f"Line {line_num}: Invalid record: {line}, expected {expected_fields} fields, got {len(fields)}")\`) to a debug file, while keeping user-facing logs concise (e.g., \`logging.error(f"Line {line_num}: Invalid record")\`).
   - Log only a few examples of an error for debugging, then count occurrences thereafter.
+  - That said, be aware that overlogging can be annoying, so structure logging to be extra terse with a --quiet arg, and extra detailed with --verbose.
 - **Naming**:
   - Use \`CamelCase\` for classes.
   - Use \`instanceVariable\` style for instance variables.
