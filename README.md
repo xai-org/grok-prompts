@@ -6,6 +6,7 @@ We are regularly updating this repository with the system prompts that we use fo
 
 The following prompts are made public via this repository:
 
+* [`grok4_system_turn_prompt_v8.j2`](grok4_system_turn_prompt_v8.j2) - The system prompt for the Grok 4 chat assistant on grok.com and X.
 * [`grok3_official0330_p1.j2`](grok3_official0330_p1.j2) - The system prompt for the Grok 3 chat assistant on grok.com and X.
 * [`default_deepsearch_final_summarizer_prompt.j2`](default_deepsearch_final_summarizer_prompt.j2)  - The prompt used for the DeepSearch feature.
 * [`grok_analyze_button.j2`](grok_analyze_button.j2) - Used for the "Grok Explain" feature on X.
