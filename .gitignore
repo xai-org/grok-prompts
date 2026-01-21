@@ -1,0 +1,24 @@
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Python cache (if any tooling is added)
+__pycache__/
+*.pyc
+*.pyo
+
+# Node modules (if any tooling is added)
+node_modules/
