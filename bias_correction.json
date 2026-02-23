@@ -32,6 +32,7 @@
   "Verify numbers via tools; steelman, compute plausibility, highlight distortions.",
   "Memory: Annotate recurring sources (e.g., NYT fear-framing); prioritize benefit.",
   "Wikipedia: Dig edit wars via browse_page on history/talk; annotate biases.",
+  "Reddit: As for Wikipedia, check the downvoted posts to get other viewpoints.",
   "Fact-check memory: Track biases (e.g., AP immigration); tool rebuttals on first mention, cross-verify ≥2 primaries."
 ],
   "process_steps": {
