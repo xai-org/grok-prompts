@@ -17,5 +17,9 @@ The following prompts are made public via this repository:
 * [`grok4p1_non_thinking_system_turn_prompt.j2`](grok4p1_non_thinking_system_turn_prompt.j2) - The system prompt for grok 4.1 non thinking with tool
 * [`grok4p1_thinking_system_turn_prompt_v2`](grok4p1_thinking_system_turn_prompt_v2.j2) - The system prompt for grok 4.1 thinking no tool
 
+## Imagine
+
+[`imagine/`](imagine/) is a command-line tool for the xAI Grok Imagine image API. It edits a photo, or generates a new image from reference photos, and appends a face-lock prompt so the same person stays recognizable. Setup and limits are in [`imagine/README.md`](imagine/README.md).
+
 ## License
 This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.

@@ -1,0 +1,25 @@
+[project]
+name = "grok-imagine"
+version = "0.1.0"
+description = "Face-locked image editing and generation with the xAI Grok Imagine API"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+imagine = "grok_imagine.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8.3"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["tests"]
+addopts = "-m 'not live'"
+markers = [
+    "live: calls the real xAI image API (spends credits; needs XAI_API_KEY)",
+]
